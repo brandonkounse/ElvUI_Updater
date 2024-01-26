@@ -18,3 +18,11 @@ From there, simply execute the `python` command:
 ```bash
 python3 main.py
 ```
+
+If an update is required, you will see this executed when the script is ran:
+
+![Update Required](./images/update%20required.png)
+
+If an update is not required, you will see this instead:
+
+![No Update Required](./images/no%20update%20required.png)
